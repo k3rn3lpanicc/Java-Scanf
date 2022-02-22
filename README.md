@@ -33,5 +33,5 @@ Output:
 1.0
 ```
 
-## Note :
+### Note :
 You should use Wrapper's not primitives + It's better to use Clib.C{type}() instead of direct equal sign (for preventing refrence issues)
